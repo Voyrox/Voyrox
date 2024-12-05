@@ -5,7 +5,7 @@
 00405C4A
 00405C4A                             ; Attributes: bp-based frame
 00405C4A
-00405C4A                                             public WhoAmI
+00405C4A                                 public WhoAmI
 00405C4A                                 WhoAmI proc near
 00405C4A 000 55                                      push    rbp
 00405C4B 008 48 89 E5                                mov     rbp, rsp
