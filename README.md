@@ -33,4 +33,3 @@
 <a href="https://github.com/Voyrox/">
   <img align="center" src="http://23.27.6.132:9000/?username=Voyrox&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=dark&bg_color=0c1014&card_width=350" style="max-width: 100%;">
 </a>
-
