@@ -1,4 +1,4 @@
-<!-- <img src="https://s10.gifyu.com/images/S56TF.gif" alt="GIF">
+<!--
 
 ```assembly 
 00405C4A                             ; =============== S U B R O U T I N E ========================
@@ -27,9 +27,10 @@
 </a>
 
 <a href="https://github.com/Voyrox/">
-  <img align="center" src="http://202.130.200.244:9000/top-langs/?username=Voyrox&langs_count=8&hide=css,scss,html,php,ejs&exclude_repo=Void-Logs,Password-manager,Discord-Proxy,Docker-code-environment,VPS-control-panel,NeuralNova,LogShield,AI-Games,BlazeDB,DocUMentor,StatusPlus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0c1014&layout=compact&card_width=350" style="max-width: 100%;">
+  <img align="center" src="http://202.130.200.244:9000/top-langs/?username=Voyrox&langs_count=8&count_private=true&hide=css,scss,html,php,ejs,TypeScript&exclude_repo=Void-Logs,Password-manager,Discord-Proxy,Docker-code-environment,VPS-control-panel,NeuralNova,LogShield,AI-Games,BlazeDB,DocUMentor,StatusPlus,NumArt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0c1014&layout=compact&card_width=350" style="max-width: 100%;">
 </a>
 
 <a href="https://github.com/Voyrox/">
   <img align="center" src="http://202.130.200.244:9000/?username=Voyrox&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=dark&bg_color=0c1014&card_width=350" style="max-width: 100%;">
 </a>
+
