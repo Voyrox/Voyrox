@@ -1,13 +1,12 @@
 <div align="center">
-  
-### Software engineering student building backend, infrastructure, automation, and systems tools
-
-`go` `c++` `linux` `containers` `kubernetes` `docker` `apis` `automation` `NGINX`
-
+  <img
+    src="https://raw.githubusercontent.com/Voyrox/Voyrox/main/banner2.png"
+    alt="Ewen MacCulloch — backend infrastructure, containers, automation, systems"
+    width="100%"
+  />
 </div>
 
 ---
-
 ```console
 $ kubectl get pods -n ewen-system
 
