@@ -1,7 +1,5 @@
 <div align="center">
-
-# Hey, I'm Ewen
-
+  
 ### Software engineering student building backend, infrastructure, automation, and systems tools
 
 `go` `c++` `linux` `containers` `kubernetes` `docker` `apis` `automation` `NGINX`
