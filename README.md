@@ -12,7 +12,7 @@
 $ kubectl get pods -n ewen-system
 
 NAME                    READY   STATUS    RESTARTS   AGE
-ewen-7f9c8d9b6c-voyrx   1/1     Running   0          20y
+ewen-7f9c8d9b6c-voyrx   1/1     Running   0          21y
 
 $ kubectl describe pod ewen-7f9c8d9b6c-voyrx -n ewen-system
 
