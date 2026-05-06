@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/Voyrox/Voyrox/main/banner2.png"
+    src="https://raw.githubusercontent.com/Voyrox/Voyrox/main/banner3.png"
     alt="Ewen MacCulloch — backend infrastructure, containers, automation, systems"
     width="100%"
   />
