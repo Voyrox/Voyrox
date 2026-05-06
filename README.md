@@ -1,6 +1,72 @@
+<div align="center">
+
+# Hey, I'm Ewen
+
+### Software engineering student building backend, infrastructure, automation, and systems tools
+
+`go` `c++` `linux` `containers` `kubernetes` `docker` `apis` `automation` `NGINX`
+
+</div>
+
+---
+
+```console
+$ kubectl get pods -n ewen-system
+
+NAME                    READY   STATUS    RESTARTS   AGE
+ewen-7f9c8d9b6c-voyrx   1/1     Running   0          20y
+
+$ kubectl describe pod ewen-7f9c8d9b6c-voyrx -n ewen-system
+
+Name:         ewen
+Namespace:    ewen-system
+Status:       Running
+Role:         Software Engineering Student
+University:   Macquarie University
+Location:     Sydney, Australia
+
+Containers:
+  engineer:
+    Image:      voyrox/ewen:latest
+    Command:    build, break, learn, repeat
+
+Focus:
+  backend infrastructure
+  container systems
+  developer tooling
+  automation
+  distributed systems
+
+Toolbox:
+  Languages:   Python, Java, JavaScript, SQL, C, C++, Go, Rust, x86-64 ASM, Bash
+  Systems:     Linux, Docker, Kubernetes, Git, NGINX
+  Backend:     Node.js, Bun, Express, Gin, MongoDB, ScyllaDB, Redis
+  Infra:       Containers, autoscaling, metrics, REST APIs, WebSockets
+  Hardware:    PCBs, microcontrollers, electrical testing
+
+$ kubectl logs deploy/ewen -f
+
+building tools that make systems easier to run, watch, scale, and debug
+learning what happens underneath
+always building
+
+$ kubectl get ingress
+
+HOSTS
+github.com/Voyrox
+ewenmacculloch.com
+ewen@macculloch.net
+```
 
 
-```assembly 
+
+
+
+
+
+
+<!-- 
+```asm 
 00405C4A                             ; =============== S U B R O U T I N E ========================
 00405C4A
 00405C4A                             ; Attributes: bp-based frame
@@ -17,7 +83,6 @@
 00405C5D
 00405C5D                             ; ------------------------------------------------------------
 ```
-<!--
 
 <a href="https://ewenmacculloch.com">
   <img
