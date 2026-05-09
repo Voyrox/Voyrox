@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/Voyrox/Voyrox/main/banner3.png"
@@ -7,6 +8,9 @@
 </div>
 
 ---
+
+-->
+
 ```console
 $ kubectl get pods -n ewen-system
 
